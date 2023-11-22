@@ -1,0 +1,13 @@
+body 
+    padding 0:
+    margin{
+
+    }
+
+    /* Set background size and properties */
+    background-size: cover; /* or 'contain' based on your preference */
+    background-position: center center;
+    background-repeat: no-repeat;
+
+    
+    font-family: 'sans-serif', sans-serif;
